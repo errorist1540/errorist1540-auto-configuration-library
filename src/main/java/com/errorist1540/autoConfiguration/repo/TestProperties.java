@@ -1,4 +1,4 @@
-package com.errorist1540.autoConfiguration;
+package com.errorist1540.autoConfiguration.repo;
 
 import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;

@@ -1,2 +1,2 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-  com.errorist1540.autoConfiguration.TestAutoConfiguration
+  com.errorist1540.autoConfiguration.repo.TestAutoConfiguration

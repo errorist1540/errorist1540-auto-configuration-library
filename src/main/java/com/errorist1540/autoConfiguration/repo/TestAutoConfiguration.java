@@ -1,4 +1,4 @@
-package com.errorist1540.autoConfiguration;
+package com.errorist1540.autoConfiguration.repo;
 
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.context.annotation.Configuration;
